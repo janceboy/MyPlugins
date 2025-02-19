@@ -10,9 +10,9 @@
       "gamba",
       "tracker"
     ],
-    "iconUrl": ""
+    "iconUrl": "",
     "DownloadLinkInstall": "https://github.com/janceboy/GambaTracker/releases/download/1.0.0/GambaTracker.zip",
     "DownloadLinkTesting": "https://github.com/janceboy/GambaTracker/releases/download/1.0.0/GambaTracker.zip",
     "DownloadLinkUpdate": "https://github.com/janceboy/GambaTracker/releases/download/1.0.0/GambaTracker.zip"
-  },
+  }
 ]
