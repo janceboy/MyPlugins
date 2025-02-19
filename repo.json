@@ -4,15 +4,23 @@
     "Name": "Gamba Tracker",
     "Punchline": "",
     "Description": "plugin for tracking gamba dealers making it easier to find them",
+    "InternalName": "GambaTracker",
+    "AssemblyVersion": "1.0.0",
+    "RepoUrl": "https://github.com/janceboy/GambaTracker",
     "ApplicableVersion": "any",
     "Tags": [
       "plugin",
       "gamba",
       "tracker"
     ],
-    "iconUrl": "",
+    "DalamudApiLevel": 11,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 0,
+    "DownloadCount": 0,
+    "IconUrl": "images/icon.png",
     "DownloadLinkInstall": "https://github.com/janceboy/GambaTracker/releases/download/1.0.0/GambaTracker.zip",
     "DownloadLinkTesting": "https://github.com/janceboy/GambaTracker/releases/download/1.0.0/GambaTracker.zip",
     "DownloadLinkUpdate": "https://github.com/janceboy/GambaTracker/releases/download/1.0.0/GambaTracker.zip"
-  }
+  },
 ]
