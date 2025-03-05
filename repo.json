@@ -5,7 +5,7 @@
     "Punchline": "",
     "Description": "plugin for tracking gamba dealers making it easier to find them",
     "InternalName": "GambaTracker",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.0.1",
     "RepoUrl": "https://github.com/janceboy/Gamba_Tracker",
     "ApplicableVersion": "any",
     "Tags": [
